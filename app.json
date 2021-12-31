@@ -7,7 +7,7 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/ridho17-ind/Skyzo-Player",
+    "repository": "https://github.com/Ahmedtyi/Skyzo-Player",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
